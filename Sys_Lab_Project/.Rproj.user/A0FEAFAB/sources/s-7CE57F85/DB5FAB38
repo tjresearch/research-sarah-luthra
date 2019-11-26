@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569697343255.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DB5FAB38",
+    "lastKnownWriteTime" : 7164775539133343090,
+    "last_content_update" : 1569697343255,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "77E9E568",
+        "caption" : "el_salvador_and_factors",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=el_salvador_and_factors&cache_key=77E9E568",
+        "displayedObservations" : "35",
+        "environment" : "",
+        "expression" : "el_salvador_and_factors",
+        "object" : "el_salvador_and_factors",
+        "preview" : "0",
+        "totalObservations" : "35",
+        "variables" : "13"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
