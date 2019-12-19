@@ -17,6 +17,7 @@ from keras.layers import Flatten
 from keras.layers import Input
 from keras.models import Model
 from keras import losses
+from keras import backend
 from keras.optimizers import *
 
 
@@ -49,7 +50,7 @@ model.add(Dense(1, activation="linear"))
 
 
 x_test = np.array([[26056950000, 96.5469436645508, 74.872, 0.998428943780015, 30.4]], dtype=float)
-y_test = np.array([22125], dtype=float)
+y_test = np.array([2212], dtype=float)
 
 opt = RMSprop(lr=1)
 
